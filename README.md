@@ -14,7 +14,7 @@
 
 <h2> Steps:</h2>
 
-1. Configure Jenkins
+1. Configure Jenkin
 
 - In Jenkins portal: Navigate to "New Item"
 - Give "Name" to item and Chose "Pipeline"
